@@ -1,7 +1,7 @@
 # Multi-Class-Multi-Label-Image-Classification
 
 
-This repository was prepared as a part of task given by Mr Akash Deep Singh(COO Tesselate Imaging) for multi class multi label image classification.
+This repository was prepared as a part of task given by Mr Akash Deep Singh(COO Tessellate Imaging) for multi class multi label image classification.
 
 Datasets were downloaded in google drive and then accesses via google colab.
 
